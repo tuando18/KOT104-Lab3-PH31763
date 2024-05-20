@@ -36,7 +36,7 @@ class MainActivity : ComponentActivity() {
             BTBuoi4_PH31749Theme {
                 Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
                     Column(modifier = Modifier.padding(innerPadding)) {
-                        GetTextTitle(title = "Nguyen Cong Thuong - PH31749")
+                        GetTextTitle(title = "Do Van Tuan - PH31763")
                     }
                 }
             }
